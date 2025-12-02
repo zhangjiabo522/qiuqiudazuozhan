@@ -1,3 +1,6 @@
+/**
+* @contributor ZhangJiaBo <3759222644@qq.com>
+ */
 import * as LIAO from '../build/liao.module.js'
 import { Rocker } from '../plug-in/rocker.js'
 import { GOject, GameLoader } from './game.js'
