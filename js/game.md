@@ -37,4 +37,12 @@
  * add：向游戏加载器添加游戏角色，用法示例 games.add( GOject )
  * remove：向游戏加载器删除游戏角色，用法示例 games.remove( GOject )
  * update：调用后会自动处理游戏内所有对象的行为，无参数，直接调用即可，用法示例 games.update()
- */
+
+/**
+ * 小地图部分由张嘉博二开
+ 
+   
+
+   
+
+ 
