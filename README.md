@@ -1,2 +1,0 @@
-# qiuqiudazuozhan
-game
