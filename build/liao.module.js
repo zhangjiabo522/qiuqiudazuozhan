@@ -4,6 +4,7 @@
  * 于2024年9月2日开始开发
  * 于xxxx年x月x日结束开发
  * @author MiaoShangZuan <3268208143@qq.com>
+ * @contributor ZhangJiaBo <3759222644@qq.com>
  */
 const Version = 'beta 0.1.24.3';
 const RENDERER_SYSTEM = document.createElement('canvas');
@@ -1608,5 +1609,6 @@ class LineStarModel {
         if( indexOf != -1 ) this.content.splice( indexOf, 1 );
     }
 }
+
 
 export { Version, RendererLogic, DetailLogic, Matrix2, Matrix3, Matrix4, MatrixNxM, Vector2, Vector3, Vector4, VectorN, Canvas2DRenderer, Scene, Camera, ImageLoad, MediaLoad, AxesModel, GridModel, GeometryModel, LineModel, TextModel, TextureModel, VideoModel, GroupModel, BoneModel, Texture, Video, Bone, RectangleModel, CircleModel, EllipseModel, StarModel, LineEllipseModel, LineStarModel };
